@@ -1,10 +1,11 @@
 
 
 **IAM Users:** \
+```
 Users are individuals who have access to the AWS account resources. \
 Users are created and managed in the IAM console. \
 Each user is assigned a unique username and an access key ID. 
-
+```
 **IAM Groups:** \
 Groups are collections of users. \
 Groups make it easier to manage permissions for multiple users. \
